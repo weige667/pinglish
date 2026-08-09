@@ -1,1 +1,0 @@
-import{_ as r,o as s,c as a,a as o}from"./index-OL8iGRb1.js";const t={},c={class:"view-placeholder"};function n(l,e){return s(),a("div",c,[...e[0]||(e[0]=[o("h2",null,"语法闯关",-1),o("p",null,"模块开发中，敬请期待。",-1)])])}const d=r(t,[["render",n]]);export{d as default};
