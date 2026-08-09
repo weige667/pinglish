@@ -1,0 +1,1 @@
+import{_ as c,o as a,c as o,a as e}from"./index-L9TWMq0Z.js";const r={},t={class:"view-home"};function l(n,s){return a(),o("div",t,[...s[0]||(s[0]=[e("div",{class:"card hero-card"},[e("h1",null,"Pinglish"),e("p",{class:"subtitle"},"乒乓球主题英语训练")],-1),e("div",{class:"card"},[e("p",null,"模块开发中，敬请期待。")],-1)])])}const d=c(r,[["render",l]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as a,c,a as o}from"./index-L9TWMq0Z.js";const r={},t={class:"view-placeholder"};function n(l,e){return a(),c("div",t,[...e[0]||(e[0]=[o("h2",null,"词汇训练",-1),o("p",null,"模块开发中，敬请期待。",-1)])])}const d=s(r,[["render",n]]);export{d as default};
