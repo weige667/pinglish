@@ -1,0 +1,1 @@
+import{_ as n,o,c as t,a as s}from"./index-HKBmSs7G.js";const c={},r={class:"view-placeholder"};function a(l,e){return o(),t("div",r,[...e[0]||(e[0]=[s("h2",null,"听力训练",-1),s("p",null,"模块开发中，敬请期待。",-1)])])}const _=n(c,[["render",a]]);export{_ as default};
