@@ -1,0 +1,22 @@
+{
+  "name": "pinglish",
+  "version": "0.1.0",
+  "description": "乒乓球主题渐进式英语四级训练应用",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "dexie": "^4.0.8",
+    "pinia": "^2.2.4",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.2.5",
+    "vite-plugin-pwa": "^0.21.2"
+  }
+}
