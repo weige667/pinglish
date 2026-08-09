@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as a,a as o}from"./index-DeWqIYws.js";const c={},n={class:"view-placeholder"};function r(l,e){return t(),a("div",n,[...e[0]||(e[0]=[o("h2",null,"模拟考场",-1),o("p",null,"模块开发中，敬请期待。",-1)])])}const d=s(c,[["render",r]]);export{d as default};
