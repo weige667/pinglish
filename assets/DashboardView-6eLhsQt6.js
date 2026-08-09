@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as r,a as o}from"./index-HKBmSs7G.js";const t={},c={class:"view-placeholder"};function n(l,e){return a(),r("div",c,[...e[0]||(e[0]=[o("h2",null,"数据看板",-1),o("p",null,"模块开发中，敬请期待。",-1)])])}const d=s(t,[["render",n]]);export{d as default};

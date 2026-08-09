@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/pinglish/sw.js', { scope: '/pinglish/' })})}
+aWYoJ3NlcnZpY2VXb3JrZXInIGluIG5hdmlnYXRvcikge3dpbmRvdy5hZGRFdmVudExpc3RlbmVyKCdsb2FkJywgKCkgPT4ge25hdmlnYXRvci5zZXJ2aWNlV29ya2VyLnJlZ2lzdGVyKCcvcGluZ2xpc2gvc3cuanMnLCB7IHNjb3BlOiAnL3BpbmdsaXNoLycgfSl9KX0=
